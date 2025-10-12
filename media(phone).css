@@ -11,7 +11,7 @@ body,
 html {
   margin: 0px;
   padding: 0px;
-  position: fixed;
+  position: ;
   background: #0d0d0d;
 }
 
@@ -114,4 +114,5 @@ a:hover {
   left: auto;
   background: black;
 }
+
 }
