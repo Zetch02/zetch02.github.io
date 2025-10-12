@@ -16,7 +16,7 @@ html {
 }
 
 canvas{
-  filter: blur(0px);
+  filter: blur(1px);
   position: absolute;
 }
 
@@ -123,3 +123,4 @@ a:hover {
 
 
 }
+
