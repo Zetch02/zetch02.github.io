@@ -25,7 +25,7 @@ h2{
   font-weight: 500;
   font-style: normal;
   color: white;
-  font-size: 25px;
+  font-size: 23px;
 }
 
 p{
@@ -47,7 +47,7 @@ a {
 
 a:hover {
     color: white;
-    font-size: 30px;
+    font-size: 23px;
 }
 
 .container{
@@ -120,5 +120,6 @@ a:hover {
   left: auto;
   background: black;
 }
+
 
 }
