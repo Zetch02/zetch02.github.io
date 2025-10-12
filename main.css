@@ -43,7 +43,6 @@ a:hover {
     margin: 20px auto;
     position: absolute;
     top: 5%;
-    left: 25%;
     z-index: 1;
 }
 
@@ -105,3 +104,4 @@ a:hover {
   background: black;
 
 }
+
