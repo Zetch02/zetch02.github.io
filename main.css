@@ -3,7 +3,6 @@ body,
 html {
   margin: 0px;
   padding: 0px;
-  position: fixed;
   background: #0d0d0d;
 }
 
@@ -104,4 +103,5 @@ a:hover {
   right: 0;
   left: auto;
   background: black;
+
 }
